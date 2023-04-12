@@ -1,9 +1,8 @@
-# RecyPro
+# RecyPro: Un proyecto innovador de reciclaje y responsabilidad social
+
+<img src="RecyPro.png" alt="RecyPro" width="100" height="auto">
 
 ## Descripción del propósito, objetivos y beneficios
-
-<img src="poster10_1_132858.png" alt="RecyPro" width="150" height="auto">
-
 
 RecyPro es un proyecto innovador que tiene como propósito abordar el problema del desperdicio y la contaminación, fomentando la reutilización, el reciclaje y la creación de arte y productos a partir de materiales reciclados. El proyecto se centrará en la creación de una plataforma web y una aplicación móvil que incluirá tutoriales, una tienda en línea, un blog y colaboraciones con entidades medioambientales.
 
