@@ -1,6 +1,6 @@
 # RecyPro: Un proyecto innovador de reciclaje y responsabilidad social
 
-<img src="RecyPro.png" alt="RecyPro" width="100" height="auto">
+<img src="RecyPro.png" alt="RecyPro" width="150" height="auto">
 
 ## Descripción del propósito, objetivos y beneficios
 
